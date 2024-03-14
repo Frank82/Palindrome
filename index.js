@@ -28,7 +28,7 @@ function isPalindrome (string) {
   }
 }
 
-console.log(isPalindrome('river'))
+console.log(isPalindrome('racecar'))
 
 
 //Topics: Strings, loops
